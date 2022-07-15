@@ -38,4 +38,8 @@ export default {
 };
 </script>
 
-<style></style>
+<style>
+.footer{
+    padding:3px;
+}
+</style>
